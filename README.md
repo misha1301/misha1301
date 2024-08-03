@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**misha1301/misha1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22-year-old Full-Stack Developer.
 
-Here are some ideas to get you started:
+## ⚡ Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `React.js` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `SCSS`
+
+**Backend Development:** `Node.js` `Express` `Mongoose`
+
+**Testing:** `Jest` `Supertest` `Postman`
+
+**Version Control:** `Git` `GitHub` `GitHub Flow` 
+
+**Other:** `Docker` `CI/CD` `GitHub Actions`
+
+## 📫 Contacts
+
+For a quick response, [LinkedIn](https://www.linkedin.com/in/mykhailo-oliinyk)
+
+*`Do my best to make this world a better place for creativity`*
