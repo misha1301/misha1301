@@ -14,7 +14,7 @@ I'm a 22-year-old Full-Stack Developer.
 
 **Other:** `Docker` `CI/CD` `GitHub Actions`
 
-## 📫 Contacts
+## 📫 Contact
 
 For a quick response, [LinkedIn](https://www.linkedin.com/in/mykhailo-oliinyk)
 
