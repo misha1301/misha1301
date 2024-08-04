@@ -18,4 +18,4 @@ I'm a 22-year-old Full-Stack Developer.
 
 For a quick response, [LinkedIn](https://www.linkedin.com/in/mykhailo-oliinyk)
 
-*`Do my best to make this world a better place for creativity`*
+*`Do my best to make this world a bit better`*
