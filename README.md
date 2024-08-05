@@ -4,7 +4,7 @@ I'm a 22-year-old Full-Stack Developer.
 
 ## ⚡ Toolbox
 
-**Frontend Development:** `React.js` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `SCSS`
+**Frontend Development:** `React.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `SCSS`
 
 **Backend Development:** `Node.js` `Express` `Mongoose`
 
